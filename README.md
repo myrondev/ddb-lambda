@@ -1,7 +1,7 @@
 # DynamoDb and Lambda project
 
 # To Run a Project
-
+- terraform init
 - terraform plan
 - terraform apply
 
