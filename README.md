@@ -9,7 +9,7 @@
 
 Once you push an event.json file to the s3 bucket, lambda will insert the records to DynamoDb table
 
-# Infrstructure created
+# Infrastructure created
 
 - S3 bucket
 - DynamoDB table
